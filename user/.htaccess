@@ -1,0 +1,17 @@
+RewriteEngine on
+
+RewriteRule ^about$ about.php [L]
+RewriteRule ^usernav$ usernav.php [L]
+RewriteRule ^allgoats$ allgoats.php [L]
+RewriteRule ^details$ details.php [L]
+RewriteRule ^footer$ footer.php [L]
+RewriteRule ^health$ health.php [L]
+RewriteRule ^healthstatus$ healthstatus.php [L]
+RewriteRule ^search$ search.php [L]
+RewriteRule ^searchgoat$ searchgoat.php [L]
+RewriteRule ^upgoats$ upgoats.php [L]
+RewriteRule ^uphealth$ uphealth.php [L]
+RewriteRule ^wish$ wish.php [L]
+
+
+
