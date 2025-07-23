@@ -90,3 +90,9 @@ Kigali, Rwanda
 
 📌 License
 This project is open-source and free to use for educational or livestock management purposes.
+👨‍💻 Author
+Kayiranga Ernest
+📍 Kigali, Rwanda
+🌐 LinkedIn
+📧 kayinesta23@gmail.com
+
